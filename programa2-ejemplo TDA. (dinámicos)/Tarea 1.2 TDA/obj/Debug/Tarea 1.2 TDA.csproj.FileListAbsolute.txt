@@ -1,0 +1,14 @@
+C:\Users\aldoc\source\repos\Tarea 1.2 TDA\Tarea 1.2 TDA\bin\Debug\Tarea 1.2 TDA.exe.config
+C:\Users\aldoc\source\repos\Tarea 1.2 TDA\Tarea 1.2 TDA\bin\Debug\Tarea 1.2 TDA.exe
+C:\Users\aldoc\source\repos\Tarea 1.2 TDA\Tarea 1.2 TDA\bin\Debug\Tarea 1.2 TDA.pdb
+C:\Users\aldoc\source\repos\Tarea 1.2 TDA\Tarea 1.2 TDA\obj\Debug\Tarea 1.2 TDA.csprojAssemblyReference.cache
+C:\Users\aldoc\source\repos\Tarea 1.2 TDA\Tarea 1.2 TDA\obj\Debug\Tarea 1.2 TDA.csproj.CoreCompileInputs.cache
+C:\Users\aldoc\source\repos\Tarea 1.2 TDA\Tarea 1.2 TDA\obj\Debug\Tarea 1.2 TDA.exe
+C:\Users\aldoc\source\repos\Tarea 1.2 TDA\Tarea 1.2 TDA\obj\Debug\Tarea 1.2 TDA.pdb
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa2-ejemplo TDA. (dinámicos)\Tarea 1.2 TDA\bin\Debug\Tarea 1.2 TDA.exe.config
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa2-ejemplo TDA. (dinámicos)\Tarea 1.2 TDA\bin\Debug\Tarea 1.2 TDA.exe
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa2-ejemplo TDA. (dinámicos)\Tarea 1.2 TDA\bin\Debug\Tarea 1.2 TDA.pdb
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa2-ejemplo TDA. (dinámicos)\Tarea 1.2 TDA\obj\Debug\Tarea 1.2 TDA.csprojAssemblyReference.cache
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa2-ejemplo TDA. (dinámicos)\Tarea 1.2 TDA\obj\Debug\Tarea 1.2 TDA.csproj.CoreCompileInputs.cache
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa2-ejemplo TDA. (dinámicos)\Tarea 1.2 TDA\obj\Debug\Tarea 1.2 TDA.exe
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa2-ejemplo TDA. (dinámicos)\Tarea 1.2 TDA\obj\Debug\Tarea 1.2 TDA.pdb
